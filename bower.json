@@ -1,0 +1,23 @@
+{
+  "name": "purescript-ebyam",
+  "homepage": "https://github.com/purescript/purescript-ebyam",
+  "description": "Optional values",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adarqui/purescript-ebyam.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-monoid": "^1.0.0",
+    "purescript-maybe": "^1.0.0"
+  }
+}
