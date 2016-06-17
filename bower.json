@@ -17,6 +17,6 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-maybe": "^0.3.5"
+    "purescript-maybe": "^1.0.0"
   }
 }
