@@ -7,7 +7,7 @@ module Data.Ebyam (
 
 
 import Data.Maybe
-import Data.Unit  (Unit)
+import Prelude    (Unit)
 
 
 
