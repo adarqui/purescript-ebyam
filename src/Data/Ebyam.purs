@@ -1,12 +1,11 @@
 module Data.Ebyam (
-  module Data.Maybe,
   ebyam,
   ebyam'
 ) where
 
 
 
-import Data.Maybe
+import Data.Maybe (Maybe, maybe, maybe')
 import Prelude    (Unit)
 
 
