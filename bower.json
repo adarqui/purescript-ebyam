@@ -1,5 +1,6 @@
 {
   "name": "purescript-ebyam",
+  "version": "1.2.0",
   "homepage": "https://github.com/adarqui/purescript-ebyam",
   "description": "Optional values",
   "license": "MIT",
@@ -17,6 +18,13 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-maybe": "^1.0.0"
+    "purescript-maybe": "^3.0.0"
+  },
+  "resolutions": {
+    "purescript-maybe": "^3.0.0",
+    "purescript-monoid": "^3.0.0",
+    "purescript-prelude": "^3.0.0",
+    "purescript-control": "^3.0.0",
+    "purescript-invariant": "^3.0.0"
   }
 }
